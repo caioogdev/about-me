@@ -14,7 +14,7 @@ Sou um desenvolvedor Full Stack com mais de 4 anos de experiência, apaixonado p
 
 - [LinkedIn](https://www.linkedin.com/in/caioogdev)
 - [GitHub](https://github.com/caioogdev)
-- 📧 Email: caioog.dev@gmail.com
+- caioog.dev@gmail.com
 
 ---
 
